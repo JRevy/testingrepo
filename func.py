@@ -1,2 +1,3 @@
 def twice(x):
-  return x*2
+    x = x*2
+ return x
